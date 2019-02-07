@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="23546" started-at="2019-02-07T06:09:52Z" finished-at="2019-02-07T06:10:16Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="23546" started-at="2019-02-07T06:09:52Z" finished-at="2019-02-07T06:10:16Z">
+      <class name="script.loginpage">
+        <test-method status="PASS" signature="openApp()[pri:0, instance:script.loginpage@59e5ddf]" name="openApp" is-config="true" duration-ms="15774" started-at="2019-02-07T06:09:52Z" finished-at="2019-02-07T06:10:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method status="PASS" signature="Loginpage()[pri:0, instance:script.loginpage@59e5ddf]" name="Loginpage" duration-ms="7692" started-at="2019-02-07T06:10:08Z" finished-at="2019-02-07T06:10:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Loginpage -->
+      </class> <!-- script.loginpage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
