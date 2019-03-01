@@ -16,6 +16,10 @@ public class A {
 		
 	}
 	
+	public void x() {
+		
+	}
+	
 	public static void main(String[] args) {
 		
 		A.addelement();
