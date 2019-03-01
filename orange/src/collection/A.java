@@ -20,6 +20,10 @@ public class A {
 		
 	}
 	
+	public void ky(){
+		
+	}
+	
 	public static void main(String[] args) {
 		
 		A.addelement();
